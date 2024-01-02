@@ -16,16 +16,16 @@ This video explains how to calculate structural decomposition using the polar de
 
 ## Key Reading
 
-This paper by Kitzes (2013) gices a good explanation of environmentally-extended IO analysis:
+This paper by Jiang et al. (2021) decomposes global carbon emissions change into driving factors:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
-  Kitzes (2013) An Introduction to Environmentally-Extended Input-Output Analysis 
+<a href="https://www.sciencedirect.com/science/article/pii/S0301479721010045" download>
+  Jiang et al. (2021) Structural decomposition analysis of global carbon emissions: The contributions of domestic and international input changes 
 </a>
 
-This paper by Afionis et al. (2017) is an interesting critique of the technique:
+This paper by Baiocchi & Minx (2010) looks at drivers of change in UK emissions:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
-  Afionis et al. (2017) Consumption-based accounting does it have a future? 
+<a href="https://pubs.acs.org/doi/full/10.1021/es902662h" download>
+  Baiocchi & Minx (2010) Understanding Changes in the UK’s CO2 Emissions: A Global Perspective
 </a>
 
 ## Recommeded Reading
@@ -52,7 +52,7 @@ Right click and download this file:
 
 Then open Jupyter notebooks and upload the file to your workspace
 
-## Workbook 1: Answers
+## Workbook 5: Answers
 
 If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra.
 
@@ -61,5 +61,3 @@ Right click and download this file:
 <a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
   Workbook 5 ANSWERS: Structural Decomposition Analysis
 </a>
-
-# IO-teaching-3-drivers-of-change
