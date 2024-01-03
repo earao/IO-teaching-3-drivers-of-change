@@ -30,7 +30,7 @@ This paper by Baiocchi & Minx (2010) looks at drivers of change in UK emissions:
   Baiocchi & Minx (2010) Understanding Changes in the UK’s CO2 Emissions: A Global Perspective
 </a>
 
-## Recommeded Reading
+## Recommended Reading
 
 This paper by Jakob & Marschinski (2013) uses decomposition analysis to understand trade related CO2 emission transfers. Read the Supplementary information if you are interested in the methods:
 
