@@ -1,10 +1,10 @@
 # 3. Understanding drivers of change
 
+The third and final part of the input-output training covers a technique used to understand drivers of change in consumption-based accounts.
+
 ## Input-output video 5: Understanding drivers of difference using Structural Decomposition Analysis (11 mins)
 
 This video introduces the concept of understanding drivers of difference and structural decomposition analysis.
-
-One of the main uses of input-output analysis is to calculate consumption-based accounts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0QBXiVvaEcs?si=pqmp1xmPfGpHBqWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -30,16 +30,29 @@ This paper by Baiocchi & Minx (2010) looks at drivers of change in UK emissions:
 
 ## Recommeded Reading
 
-This paper by Hinkel (2020) offers an interesting persepctive on responsibility:
+This paper by Jakob & Marschinski (2013) uses decomposition analysis to understand trade related CO2 emission transfers. Read the Supplementary information if you are interested in the methods:
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
-  Hinkel (2020) Quantifying national responsibility 
+<a href="https://www.nature.com/articles/nclimate1630" download>
+  Jakob & Marschinski (2013) Interpreting trade-related CO2 emission transfers 
 </a>
 
+This paper by Lan et al. (2016) uses SDA to understand drivers of change in global energy footprints:
 
-This paper by Wiedmann et al. (2017) looks to the future of MRIO modelling:
+<a href="https://www.sciencedirect.com/science/article/pii/S0306261915014282" download>
+  Lan et al. (2016) A structural decomposition analysis of global energy footprints
+</a>
 
-<a href="https://www.mdpi.com/2079-9276/2/4/489" download>
+This paper by Owen et al. (2014) uses SDA to understand why different MRIO databases give different results:
+
+<a href="https://www.tandfonline.com/doi/abs/10.1080/09535314.2014.935299" download>
+  Owen et al. (2014) A structural decomposition approach to comparing MRIO databases
+</a>
+
+This paper by Dietzenbacher & Los (2006) explains how the decomposition equations work:
+
+<a href="https://www.tandfonline.com/doi/abs/10.1080/09535319800000023" download>
+  Dietzenbacher & Los (2006) Structural decomposition techniques: sense and sensitivity
+</a>
 
 
 ## Workbook 5: Structural Decomposition Analysis
