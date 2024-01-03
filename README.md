@@ -77,6 +77,11 @@ Use this link:
 
 to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
 
+
+<a href="https://github.com/earao/IO-teaching-3-drivers-of-change/blob/main/WIODv2016_data_deflated.zip" download>
+  WIODv2016_data_deflated
+</a>
+
 ## Workbook 5: Answers
 
 If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 5: Structural Decomposition Analysis.
