@@ -71,12 +71,7 @@ Right click and download this file:
 
 Then open Jupyter notebooks and upload the file to your workspace
 
-Use this link:
-
-<a href="https://doi.org/10.7910/DVN/XLRSND" </a>
-
-to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
-
+Use this link to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
 
 <a href="https://github.com/earao/IO-teaching-3-drivers-of-change/blob/main/WIODv2016_data_deflated.zip" download>
   WIODv2016_data_deflated
