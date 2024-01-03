@@ -22,6 +22,8 @@ This paper by Jiang et al. (2021) decomposes global carbon emissions change into
   Jiang et al. (2021) Structural decomposition analysis of global carbon emissions: The contributions of domestic and international input changes 
 </a>
 
+
+
 This paper by Baiocchi & Minx (2010) looks at drivers of change in UK emissions:
 
 <a href="https://pubs.acs.org/doi/full/10.1021/es902662h" download>
@@ -36,17 +38,20 @@ This paper by Jakob & Marschinski (2013) uses decomposition analysis to understa
   Jakob & Marschinski (2013) Interpreting trade-related CO2 emission transfers 
 </a>
 
+
 This paper by Lan et al. (2016) uses SDA to understand drivers of change in global energy footprints:
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0306261915014282" download>
   Lan et al. (2016) A structural decomposition analysis of global energy footprints
 </a>
 
+
 This paper by Owen et al. (2014) uses SDA to understand why different MRIO databases give different results:
 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/09535314.2014.935299" download>
   Owen et al. (2014) A structural decomposition approach to comparing MRIO databases
 </a>
+
 
 This paper by Dietzenbacher & Los (2006) explains how the decomposition equations work:
 
