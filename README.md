@@ -59,18 +59,25 @@ This paper by Dietzenbacher & Los (2006) explains how the decomposition equation
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079352" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080158" download>
   Workbook 5: Structural Decomposition Analysis
 </a>
 
+
 Then open Jupyter notebooks and upload the file to your workspace
+
+Use this link:
+
+<a href="https://doi.org/10.7910/DVN/XLRSND" </a>
+
+to download a slightly modified version of the World Input-Output database where the tables are in 2000 prices. Upload all the files (45 of them) in a folder called 'WIODv2016_data_deflated' in your Jupyter notebook workspace.
 
 ## Workbook 5: Answers
 
-If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 1: Matrix algebra.
+If you want to check your work or to get a hint as to where you might be going wrong, here are the answers to Workbook 5: Structural Decomposition Analysis.
 
 Right click and download this file:
 
-<a href="https://dataverse.harvard.edu/api/access/datafile/8079359" download>
+<a href="https://dataverse.harvard.edu/api/access/datafile/8080208" download>
   Workbook 5 ANSWERS: Structural Decomposition Analysis
 </a>
